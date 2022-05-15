@@ -1,11 +1,4 @@
-# Created by Admin at 5/8/2022
-late = True
-if late:
-    print('I need to call my manager')
-else:
-    print('no need to call my manager')
-
-
+# Created by Admin at 5/14/2022
 income = 15_000
 tax_coefficient = 0
 if income < 10_000:
